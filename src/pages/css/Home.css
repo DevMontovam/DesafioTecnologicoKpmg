@@ -1,0 +1,195 @@
+.top-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+  
+  .top-menu h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+    padding-top: 30px;
+    align-items: center;
+    justify-content: center;
+}
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .social-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .social-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  .content {    
+    text-align: center;
+    flex: 1 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px;
+    min-height: 70vh;
+    max-height: 500px; 
+    max-width: 900px;
+    overflow-y: auto;
+    margin-bottom: 3rem;
+  }
+  
+  .registration-list {
+    list-style-type: none;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .registration-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .registration-item:last-child {
+    border-bottom: none;
+  }  
+  
+  .form-section {
+    text-align: center;
+    flex: 1 1;    
+    padding: 20px;
+    min-height: 70vh;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+  }
+  
+  .top-menu {
+    background-color: #f8f8f8;
+    padding: 20px;
+    box-shadow: 0 4px 2px -2px gray;
+  }
+  
+  .footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background-color: #f8f9fa; 
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); 
+    position: fixed;
+    bottom: 0;
+    z-index: 1000;
+  }
+  
+  .footer-left {
+    display: flex;
+    gap: 15px; 
+  }
+  
+  .footer-left p {
+    margin: 0;
+    line-height: 1.6;
+  }
+  
+  .footer-left p,
+  .footer-right a {
+      font-size: 14px; 
+      color: #333; 
+  }
+  .footer-right {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .social-icon {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.2s;
+  }
+  
+  .social-icon:hover {
+    transform: scale(1.1);
+  }
+  
+  .pr-5{
+    padding-right: 2rem !important;
+  }
+
+  .no-registration{
+    margin-top: 20px;
+    font-size: 18px;
+    color: gray;
+  }
+
+  @media (max-width: 768px) {
+    
+    @media (max-width: 480px) {
+      .home-container {
+        padding-top: 50px; 
+        text-align: center;
+      }
+      
+      .footer {
+        flex-direction: column;
+        text-align: center;
+      }
+    }
+    
+  
+    .header, .form-section, .content {
+      width: 100%;
+    }
+  
+    .registration-item {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .edit-button, .delete-button {
+      width: 100%;
+      margin-top: 5px;
+    }
+  
+    .social-buttons {
+      flex-direction: column;
+      gap: 5px;
+    }
+  }
+  
