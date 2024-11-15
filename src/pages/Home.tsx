@@ -5,7 +5,6 @@ import RegistrationForm from '../components/RegistrationForm';
 import toastr from 'toastr';
 import './css/Home.css';
 
-// Configuração do Toastr
 toastr.options = {
   "closeButton": true,
   "debug": false,

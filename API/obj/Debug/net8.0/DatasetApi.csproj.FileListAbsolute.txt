@@ -1,0 +1,156 @@
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.csproj.AssemblyReference.cache
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.AssemblyInfoInputs.cache
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.AssemblyInfo.cs
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.csproj.CoreCompileInputs.cache
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\appsettings.json
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\DatasetApi.exe
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\DatasetApi.deps.json
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\DatasetApi.runtimeconfig.json
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\DatasetApi.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\DatasetApi.pdb
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\staticwebassets\msbuild.DatasetApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\staticwebassets\msbuild.build.DatasetApi.props
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DatasetApi.props
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DatasetApi.props
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\scopedcss\bundle\DatasetApi.styles.css
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.csproj.Up2Date
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.dll
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\refint\DatasetApi.dll
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.pdb
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\DatasetApi.genruntimeconfig.cache
+D:\Projetos\ApiDatasets\DatasetApi\obj\Debug\net8.0\ref\DatasetApi.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\ApiDatasets\DatasetApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\appsettings.Development.json
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\appsettings.json
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\DatasetApi.exe
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\DatasetApi.deps.json
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\DatasetApi.runtimeconfig.json
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\DatasetApi.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\DatasetApi.pdb
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Azure.Core.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\Teste KPMG\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.csproj.AssemblyReference.cache
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.AssemblyInfoInputs.cache
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.AssemblyInfo.cs
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.csproj.CoreCompileInputs.cache
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\staticwebassets\msbuild.DatasetApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\staticwebassets\msbuild.build.DatasetApi.props
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DatasetApi.props
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DatasetApi.props
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\scopedcss\bundle\DatasetApi.styles.css
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.csproj.Up2Date
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.dll
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\refint\DatasetApi.dll
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.pdb
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\DatasetApi.genruntimeconfig.cache
+D:\Projetos\Teste KPMG\API\obj\Debug\net8.0\ref\DatasetApi.dll

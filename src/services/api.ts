@@ -2,7 +2,7 @@ import axios from 'axios';
 import { Registration } from '../types/Registration';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api', // ajuste para a URL do backend
+  baseURL: 'http://localhost:5000/api',
 });
 
 export const getRegistrations = () => api.get<Registration[]>('/registration');
